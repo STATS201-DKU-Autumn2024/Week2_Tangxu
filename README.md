@@ -71,4 +71,30 @@
 - **Python 3.10.12**
 
 ### Installed Packages:
-A comprehensive list of installed packages is included, with package names and their respective versions.
+| Package              | Version  |
+|----------------------|----------|
+| absl-py              | 1.4.0    |
+| accelerate           | 0.34.2   |
+| aiohappyeyeballs     | 2.4.3    |
+| aiohttp              | 3.10.10  |
+| aiosignal            | 1.3.1    |
+| alabaster            | 0.7.16   |
+| albucore             | 0.0.16   |
+| albumentations       | 1.4.15   |
+| altair               | 4.2.2    |
+| annotated-types      | 0.7.0    |
+| anyio                | 3.7.1    |
+| argon2-cffi          | 23.1.0   |
+| argon2-cffi-bindings | 21.2.0   |
+| array_record         | 0.5.1    |
+| arviz                | 0.19.0   |
+| ...                  | ...      |
+| werkzeug             | 3.0.4    |
+| wheel                | 0.44.0   |
+| widgetsnbextension   | 3.6.10   |
+| wordcloud            | 1.9.3    |
+| wrapt                | 1.16.0   |
+| xarray               | 2024.9.0 |
+| xgboost              | 2.1.1    |
+| yfinance             | 0.2.46   |
+| zipp                 | 3.20.2   |

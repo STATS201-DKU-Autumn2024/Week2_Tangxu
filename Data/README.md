@@ -9,7 +9,7 @@ Accessible as open data on Zenodo, HYADES is structured to facilitate extensive 
 [1] Vargas Godoy, M.R., Papalexiou, S.M. & Markonis, Y. "HYADES - A Global Archive of Annual Maxima Daily Precipitation," *Scientific Data*, vol. 11, no. 298, 2024. Available: [https://doi.org/10.1038/s41597-024-03109-2](https://doi.org/10.1038/s41597-024-03109-2).
 
 Here is a structured data dictionary for the dataset:
-# Data Dictionary for HYADES32 Dataset
+# Data Dictionary for the HYADES Dataset
 
 | **Variable**         | **Description**                                                                                                   | **Type**   | **Unit**            |
 |----------------------|-------------------------------------------------------------------------------------------------------------------|------------|----------------------|

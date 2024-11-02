@@ -8,7 +8,7 @@ Accessible as open data on Zenodo, HYADES is structured to facilitate extensive 
 
 [1] Vargas Godoy, M.R., Papalexiou, S.M. & Markonis, Y. "HYADES - A Global Archive of Annual Maxima Daily Precipitation," *Scientific Data*, vol. 11, no. 298, 2024. Available: [https://doi.org/10.1038/s41597-024-03109-2](https://doi.org/10.1038/s41597-024-03109-2).
 
-With the revised data dictionary below.
+Here is a structured data dictionary for the dataset:
 # Data Dictionary for HYADES32 Dataset
 
 | **Variable**         | **Description**                                                                                                   | **Type**   | **Unit**            |
@@ -31,3 +31,5 @@ With the revised data dictionary below.
 | L-Scale              | L-moment scale, a statistical measure representing variability in the annual maxima values.                       | Float      | -                    |
 | L-Skewness           | L-moment skewness, indicating the asymmetry of the annual maxima distribution.                                   | Float      | -                    |
 | L-Kurtosis           | L-moment kurtosis, indicating the peakedness or flatness of the annual maxima distribution.                       | Float      | -                    |
+
+This data dictionary provides an overview of the dataset's main variables, including detailed descriptions, types, and units for each variable.

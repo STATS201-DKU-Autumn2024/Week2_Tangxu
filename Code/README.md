@@ -16,7 +16,7 @@ Due to the large size of the dataset, it cannot be directly uploaded to this rep
    - Upload the downloaded CSV file to Google Colab.
 
 2. **Run the Notebook**
-   - Open the `Exploration_on_HYADES.ipynb` notebook in Google Colab.
+   - Open the [Exploration_on_HYADES.ipynb](https://github.com/STATS201-DKU-Autumn2024/Week2_Tangxu/blob/main/Code/Exploration_on_HYADES.ipynb) notebook in Google Colab.
    - Ensure that the dataset file is uploaded in the same directory as the notebook.
    - Execute the cells in the notebook sequentially to perform data analysis and visualization.
 

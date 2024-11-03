@@ -32,8 +32,7 @@ This heatmap shows the spatial distribution of average annual maximum precipitat
 
 ## Requirements
 
-- Python 3
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `geopandas` (install as necessary in the Colab environment)
+Please refer to the [root page of this repository](./) for system requirements.
 
 ## Acknowledgments
 

@@ -32,7 +32,7 @@ This heatmap shows the spatial distribution of average annual maximum precipitat
 
 ## Requirements
 
-Please refer to the [root page](https://github.com/STATS201-DKU-Autumn2024/Week2_Tangxu/tree/main) for detailed environment requirements.
+Please refer to the [root page](https://github.com/STATS201-DKU-Autumn2024/Week2_Tangxu/tree/main) for any detailed environment requirements.
 
 ## Acknowledgments
 

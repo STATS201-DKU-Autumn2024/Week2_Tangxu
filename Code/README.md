@@ -42,4 +42,4 @@ Vargas Godoy, M.R., Papalexiou, S.M. & Markonis, Y. "HYADES - A Global Archive o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/STATS201-DKU-Autumn2024/Week2_Tangxu/blob/main/LICENSE) file for details.

@@ -11,25 +11,12 @@ Accessible as open data on Zenodo, HYADES is structured to facilitate extensive 
 Here is a structured data dictionary for the dataset:
 # Data Dictionary for the HYADES Dataset
 
-| **Variable**         | **Description**                                                                                                   | **Type**   | **Unit**            |
-|----------------------|-------------------------------------------------------------------------------------------------------------------|------------|----------------------|
-| Ground Station ID    | Unique identifier for each ground station recording annual maxima of daily precipitation.                        | Integer    | -                    |
-| Longitude            | Geographic coordinate that specifies the east-west position of the station.                                      | Float      | Degrees              |
-| Latitude             | Geographic coordinate that specifies the north-south position of the station.                                    | Float      | Degrees              |
-| Year                 | The year when the annual maxima of daily precipitation was recorded.                                             | Integer    | -                    |
-| Annual Maxima        | The highest daily precipitation recorded in a year at the station.                                               | Float      | mm                   |
-
-# Summary Statistics Variables
-
-| **Variable**         | **Description**                                                                                                   | **Type**   | **Unit**            |
-|----------------------|-------------------------------------------------------------------------------------------------------------------|------------|----------------------|
-| Record Length        | Duration of data collection at each station, ranging from 16 to 200 years.                                       | Integer    | Years                |
-| Trend                | Trend in annual maxima of daily precipitation per year.                                                           | Float      | mm/year              |
-| Median               | Median of annual maxima values across the stations.                                                               | Float      | mm                   |
-| Mean                 | Average of annual maxima values across the stations.                                                              | Float      | mm                   |
-| SD                   | Standard deviation of annual maxima values across the stations, indicating variability.                           | Float      | mm                   |
-| L-Scale              | L-moment scale, a statistical measure representing variability in the annual maxima values.                       | Float      | -                    |
-| L-Skewness           | L-moment skewness, indicating the asymmetry of the annual maxima distribution.                                   | Float      | -                    |
-| L-Kurtosis           | L-moment kurtosis, indicating the peakedness or flatness of the annual maxima distribution.                       | Float      | -                    |
+| **Variable** | **Description**                                                                                                   | **Type**   | **Unit**            |
+|--------------|-------------------------------------------------------------------------------------------------------------------|------------|----------------------|
+| ID           | Unique identifier for each ground station recording annual maxima of daily precipitation.                        | Integer    | -                    |
+| YEAR         | The year when the annual maxima of daily precipitation was recorded.                                             | Integer    | -                    |
+| MAX.PRCP     | The highest daily precipitation recorded in a year at the station.                                               | Float      | mm                   |
+| LON          | Geographic coordinate that specifies the east-west position of the station.                                      | Float      | Degrees              |
+| LAT          | Geographic coordinate that specifies the north-south position of the station.                                    | Float      | Degrees              |
 
 This data dictionary provides an overview of the dataset's main variables, including detailed descriptions, types, and units for each variable.
